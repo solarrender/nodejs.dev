@@ -51,7 +51,12 @@ const questions = [
 
 inquirer.prompt(questions).then(answers => {
   console.log(`Hi ${answers.name}!`);
-});
+});.,/,./,m././m,./m,./m,./,./m,./,m../m,./m,./jkhljklhjklhjklhjkl'l;';'
+l;'
+l;'
+;?;l'
+jl;'kl;hkl;
+j,mn../m,/m,.m,.m,.m,.m,/,./,./,./,./,./,./,./,./,./,./,/m,/n.,/m,./m,./m,./m,./m,./m,./m,./m,./m,./m,./m,./m,./m,./m,./m,./m,./m,./,./m,./m,./,./,./m,./m,./m,./m,./m,./m,./m,./m,./m,./,./m,./m,,m.
 ```
 
 Inquirer.js lets you do many things like asking multiple choices, having radio buttons, confirmations, and more.
